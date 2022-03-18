@@ -4,6 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/AndroidProjects/TestApplication/app/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/AndroidSDK/platforms/android-32/data/res/drawable/btn_cab_done_holo_dark.xml" value="0.1765" />
+        <entry key="..\:/AndroidSDK/platforms/android-32/data/res/drawable/btn_default.xml" value="0.1765" />
+        <entry key="..\:/AndroidSDK/platforms/android-32/data/res/drawable/btn_default_material.xml" value="0.1765" />
       </map>
     </option>
   </component>
